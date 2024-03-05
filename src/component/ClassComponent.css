@@ -1,0 +1,17 @@
+*{
+    background-color: white;
+    color: black;
+}
+
+.counter{
+    font-size: 50px;
+    margin: 20%;
+}
+.button-container{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+}
+.button{
+    color: white;
+}
